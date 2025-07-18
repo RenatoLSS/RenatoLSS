@@ -2,10 +2,10 @@
 <img src="https://i.ibb.co/cXMhS6B5/IMG.png" alt="ilustração" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-👋 Olá! Meu nome é Renato.
-🎓 Atualmente estou cursando Tecnologia em Ciência de Dados.
-💻 Tenho grande interesse por tecnologia, com foco especial em dados, análise e tudo que envolve extração de valor a partir da informação.
-🚀 Estou sempre em busca de aprender mais, colaborar em projetos e explorar novas ferramentas e soluções no mundo da ciência de dados.
+👋 Olá! Meu nome é Renato.<br />
+🎓 Atualmente estou cursando Tecnologia em Ciência de Dados.<br />
+💻 Tenho grande interesse por tecnologia, com foco especial em dados, análise e tudo que envolve extração de valor a partir da informação.<br />
+🚀 Estou sempre em busca de aprender mais, colaborar em projetos e explorar novas ferramentas e soluções no mundo da ciência de dados.<br />
   
 </p>
 
