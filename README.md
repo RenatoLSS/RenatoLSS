@@ -1,5 +1,5 @@
 
-<img src="https://ibb.co/gFHZLS21" alt="ilustração" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.ibb.co/cXMhS6B5/IMG.png" alt="ilustração" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
 👋 Olá! Meu nome é Renato.
